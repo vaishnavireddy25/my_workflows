@@ -1,8 +1,7 @@
 name: ci pipeline
 
 on: push
-
-jobs:
+ jobs:
   build-test:
     runs-on: ubuntu-latest
 
