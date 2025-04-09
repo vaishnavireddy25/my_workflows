@@ -1,0 +1,11 @@
+{
+  "name": "my-learning-app",
+  "version": "1.0.0",
+  "description": "Just learning GitHub Actions 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"✅ Test passed!\""
+  },
+  "author": "Vaishnavi",
+  "license": "MIT"
+}
